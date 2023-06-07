@@ -6,7 +6,7 @@ The API used for this project was the Hong Kong International Airport API from (
 
 I used the express module, which is a web application framework for Node.js. It allows you to build web applications and APIs easily.I also had to implement the cors module, to avoid the Cross-Origin Resource Sharing errors when using external APIs.
 
-## To use this applciation
+## To use this application
 1.Download the applciation files
 
 2.Open terminal and move to the directory containing the application files
