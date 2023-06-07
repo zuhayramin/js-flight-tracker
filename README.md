@@ -2,7 +2,7 @@
 
 The purpose of this project was to learn how to incorporate node.js into a javascript project
 
-The API used for this project was the Hong Kong International Airport API from (RapidAPI)[https://rapidapi.com/don.ling.lok/api/flight-information-of-hong-kong-international-airport/]
+The API used for this project was the Hong Kong International Airport API from [RapidAPI](https://rapidapi.com/don.ling.lok/api/flight-information-of-hong-kong-international-airport/)
 
 I used the express module, which is a web application framework for Node.js. It allows you to build web applications and APIs easily.I also had to implement the cors module, to avoid the Cross-Origin Resource Sharing errors when using external APIs.
 
